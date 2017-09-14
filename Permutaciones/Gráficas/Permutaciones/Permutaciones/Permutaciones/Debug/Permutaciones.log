@@ -1,0 +1,30 @@
+﻿  Permutaciones.cpp
+c:\users\malbag\desktop\gráficas\permutaciones\permutaciones\permutaciones\permutaciones.cpp(24): error C2665: 'swap': ninguna de las 7 sobrecargas pudo convertir todos los tipos de argumento
+  c:\users\malbag\desktop\gráficas\permutaciones\permutaciones\permutaciones\permutaciones.cpp(10): note: puede ser 'void swap(char *,int *)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\strstream(659): note: o       'void std::swap(std::strstream &,std::strstream &)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\strstream(565): note: o       'void std::swap(std::ostrstream &,std::ostrstream &)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\strstream(476): note: o       'void std::swap(std::istrstream &,std::istrstream &)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\strstream(391): note: o       'void std::swap(std::strstreambuf &,std::strstreambuf &)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\exception(331): note: o       'void std::swap(std::exception_ptr &,std::exception_ptr &) throw()'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\utility(62): note: o       'void std::swap<char*,void>(_Ty &,_Ty &) noexcept'
+          with
+          [
+              _Ty=char *
+          ]
+  c:\users\malbag\desktop\gráficas\permutaciones\permutaciones\permutaciones\permutaciones.cpp(24): note: al hacer coincidir la lista de argumentos '(char *, char *)'
+c:\users\malbag\desktop\gráficas\permutaciones\permutaciones\permutaciones\permutaciones.cpp(26): error C2665: 'swap': ninguna de las 7 sobrecargas pudo convertir todos los tipos de argumento
+  c:\users\malbag\desktop\gráficas\permutaciones\permutaciones\permutaciones\permutaciones.cpp(10): note: puede ser 'void swap(char *,int *)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\strstream(659): note: o       'void std::swap(std::strstream &,std::strstream &)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\strstream(565): note: o       'void std::swap(std::ostrstream &,std::ostrstream &)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\strstream(476): note: o       'void std::swap(std::istrstream &,std::istrstream &)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\strstream(391): note: o       'void std::swap(std::strstreambuf &,std::strstreambuf &)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\exception(331): note: o       'void std::swap(std::exception_ptr &,std::exception_ptr &) throw()'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\utility(62): note: o       'void std::swap<char*,void>(_Ty &,_Ty &) noexcept'
+          with
+          [
+              _Ty=char *
+          ]
+  c:\users\malbag\desktop\gráficas\permutaciones\permutaciones\permutaciones\permutaciones.cpp(26): note: al hacer coincidir la lista de argumentos '(char *, char *)'
+c:\users\malbag\desktop\gráficas\permutaciones\permutaciones\permutaciones\permutaciones.cpp(34): error C2440: 'inicializando': no se puede realizar la conversión de 'const char [4]' a 'char'
+  c:\users\malbag\desktop\gráficas\permutaciones\permutaciones\permutaciones\permutaciones.cpp(34): note: No existe un contexto en el que sea posible realizar esta conversión
+c:\users\malbag\desktop\gráficas\permutaciones\permutaciones\permutaciones\permutaciones.cpp(35): error C3861: 'sizef': no se encontró el identificador
